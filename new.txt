@@ -1,1 +1,2 @@
 hello my new repozitoriy
+one:hello my name puper
